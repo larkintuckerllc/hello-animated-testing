@@ -1,5 +1,5 @@
 import React, { Component, Fragment } from 'react';
-import { Animated, Button, ViewStyle } from 'react-native';
+import { Animated, Button } from 'react-native';
 
 interface State {
   visible: boolean;

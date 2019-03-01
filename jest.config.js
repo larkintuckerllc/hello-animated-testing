@@ -8,6 +8,7 @@ module.exports = {
     '.*\.tsx?$': 'ts-jest',
   },
   testRegex: '(/__tests__/.*|(\\.|/)(test|spec))\\.tsx?$',
+  testMatch: null,
   moduleFileExtensions: [
     'js',
     'jsx',
